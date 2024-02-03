@@ -41,17 +41,17 @@
 <img src="https://github.com/junioralive/junioralive/blob/master/assets/Knowledge.gif" align="left">
   <dl>
   <dt>Basic languages:</dt>
-  <dd>- Python, Java, C++ </dd>
+  <dd>- Python, Java </dd>
   <dt>FrontEnd:</dt>
   <dd>- Html, Css, JavaScript </dd>
   <dt>FrontEnd frameworks:</dt>
   <dd>- React, jQuerys, Vue.js  </dd>
   <dt>BackEnd:</dt>
-  <dd>- Java, Python, PHP</dd>
+  <dd>- PHP, Python, Java</dd>
   <dt>BackEnd frameworks:</dt>
-  <dd>- Spring, Django, Flask </dd>
+  <dd>- Spring Boot, Flask </dd>
   <dt>Learning:</dt>
-  <dd>- Pytorch, NPL</dd>
+  <dd>- Pytorch, NLP </dd>
 </dl>
   </div>
   
