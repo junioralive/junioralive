@@ -65,7 +65,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junioralive&layout=compact&theme=dark">
     </a>
     <a>
-    <img src="https://github-readme-stats.vercel.app/api?username=junioralive&show_icons=true&theme=dark&show=reviews">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=junioralive&show_icons=true&theme=dark&show=reviews">
     </a>
 </div>
 
