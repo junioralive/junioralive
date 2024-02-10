@@ -62,7 +62,7 @@
     <img align="left" src="https://streak-stats.demolab.com/?user=junioralive&theme=dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D">
     </a>
     <a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junioralive&layout=compact&theme=dark">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junioralive&layout=compact&theme=dark">
     </a>
     <a>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=junioralive&show_icons=true&theme=dark&show=reviews">
