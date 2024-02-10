@@ -75,14 +75,14 @@
   <img src="https://github-profile-trophy.vercel.app/?username=junioralive&theme=darkhub&column=7">
 </a>
 
- ---
+ <!---
 
 <h2 align="center"> 𝙎𝙥𝙤𝙩𝙞𝙛𝙮 </h2>
   <div align="center">
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=168ya18m84ufnejec1i3486wz&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" align="center">
   </div>
 
- ---
+ --->
  
  <div align="center">
  <h2 align="center"> C𝙤𝙣𝙩𝙖𝙘𝙩 𝙢𝙚 </h2>
