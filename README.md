@@ -64,9 +64,9 @@
     <a>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junioralive&layout=compact&theme=dark">
     </a>
-    <a>
+    <!--<a>
     <img src="https://github-readme-stats.vercel.app/api?username=junioralive&show_icons=true&theme=dark&show=reviews">
-    </a>
+    </a>-->
 </div>
 
 ---
