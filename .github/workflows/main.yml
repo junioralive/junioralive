@@ -1,9 +1,10 @@
 name: gogo_cookie_gen
 
 on:
-  schedule:
-    - cron: '0 0 * * *'
-
+  push:
+    branches:
+      - main
+  repository_dispatch:
   workflow_dispatch:
 
 jobs:
