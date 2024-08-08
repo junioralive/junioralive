@@ -28,7 +28,7 @@
   <dd>- he/him </dd>
   <dt>Loves:</dt>
   <dd>- Anime, Games, Cars </dd>
-  <dt>Hobbys:</dt>
+  <dt>Hobbies:</dt>
   <dd>- Coding, Streaming </dd>
 </dl>
 </div>
