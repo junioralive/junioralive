@@ -94,6 +94,16 @@
 ---
 
 <div align="center">
+  <h1>Oh no, a code-crunching snake on my commit trail!</h1>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake.svg">
+    <img alt="github-snake" src="assets/github-snake.svg">
+  </picture>
+</div>
+
+---
+
+<div align="center">
   <h2>Contact Me</h2>
     <a>
       <img src="https://c.tenor.com/q5GAvhP83IMAAAAd/tenor.gif"/>
