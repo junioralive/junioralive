@@ -119,7 +119,7 @@
       <img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email"/>
     </a>
     <a href="https://junioralive.com">
-      <img src="https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=safari&logoColor=white" alt="Website"/>
+      <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=safari&logoColor=white" alt="Website"/>
     </a>
   </p>
 </div>
