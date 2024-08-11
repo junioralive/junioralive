@@ -31,11 +31,11 @@ jobs:
         run: |
           git config --local user.email ${{ secrets.MY_GIT_EMAIL }}
           git config --local user.name "junioralive"
-          git add keys
+          git add -A
           git commit -m "updated cookies" -a
           
       - name: push changes
         uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
+          branch: master
